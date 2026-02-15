@@ -43,8 +43,7 @@
  - Приведите скриншот systemctl status memcached, где будет видно, что memcached запущен.
 
 
-<img width="667" height="283" alt="image" src="https://github.com/user-attachments/assets/a4dbca68-c4d4-45fc-85dc-83ff25677e45" />
-
+<img width="667" height="283" alt="image" src="https://github.com/user-attachments/assets/628b5a7f-3ea0-4356-90d2-5d56df87ce6a" />
 
 ---
 
